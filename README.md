@@ -1,6 +1,11 @@
 <br>
 
-<p align="center"><i>you don't owe the world anything. give it something anyway.</i><br><sub>hunter</sub></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
+    <img src="assets/quote-light.svg" width="640" alt="you don't owe the world anything. give it something anyway. hunter">
+  </picture>
+</p>
 
 <br>
 
@@ -10,15 +15,15 @@ i'd like the things i make to be useful to someone i'll never meet. good tools s
 
 almost everything i know, i learned for free from strangers on the internet. this is me paying it back :)
 
-<sub>lately: looking for work. luck isn't spread evenly. i'd like to fix that a little.</sub>
+<i>lately: looking for work. luck isn't spread evenly. i'd like to fix that a little.</i>
 
 <br>
 
-<sub>some things i've made</sub><br>
-&nbsp;&nbsp;[localvert](https://github.com/ChasingHunter/localvert) &nbsp;·&nbsp; file conversion that never leaves your browser<br>
-&nbsp;&nbsp;[orbit](https://github.com/ChasingHunter/orbit) &nbsp;·&nbsp; an ai assistant for windows that asks first<br>
-&nbsp;&nbsp;[claude-code-windows-kit](https://github.com/ChasingHunter/claude-code-windows-kit) &nbsp;·&nbsp; small comforts for claude code on windows
+<i>some things i've made</i><br>
+&nbsp;&nbsp;[<b>localvert</b>](https://github.com/ChasingHunter/localvert) &nbsp;·&nbsp; file conversion that never leaves your browser<br>
+&nbsp;&nbsp;[<b>orbit</b>](https://github.com/ChasingHunter/orbit) &nbsp;·&nbsp; an ai assistant for windows that asks first<br>
+&nbsp;&nbsp;[<b>claude-code-windows-kit</b>](https://github.com/ChasingHunter/claude-code-windows-kit) &nbsp;·&nbsp; small comforts for claude code on windows
 
 <br>
 
-<p align="center"><sub>if any of this feels familiar, come say hi. no agenda needed :)<br><a href="https://www.linkedin.com/in/bhavya-patel-here">linkedin</a></sub></p>
+<p align="center">if any of this feels familiar, come say hi. no agenda needed :)<br><a href="https://www.linkedin.com/in/bhavya-patel-here">linkedin</a></p>
