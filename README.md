@@ -22,6 +22,7 @@ almost everything i know, i learned for free from strangers on the internet. thi
 <i>some things i've made</i><br>
 &nbsp;&nbsp;[<b>localvert</b>](https://github.com/ChasingHunter/localvert) &nbsp;·&nbsp; file conversion that never leaves your browser<br>
 &nbsp;&nbsp;[<b>orbit</b>](https://github.com/ChasingHunter/orbit) &nbsp;·&nbsp; an ai assistant for windows that asks first<br>
+&nbsp;&nbsp;[<b>utter</b>](https://github.com/ChasingHunter/utter) &nbsp;·&nbsp; offline push-to-talk dictation for windows<br>
 &nbsp;&nbsp;[<b>claude-code-windows-kit</b>](https://github.com/ChasingHunter/claude-code-windows-kit) &nbsp;·&nbsp; small comforts for claude code on windows
 
 <br>
